@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arun Raja R G</h1>
 <h3 align="center">Data Science & AI/ML Enthusiast | Passionate about turning data into actionable insights and building intelligent solutions. Continuously learning and creating projects to sharpen my skills and contribute to real-world problem solving.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aruraja11&label=Profile%20views&color=0e75b6&style=flat" alt="aruraja11" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aruraja11" alt="aruraja11" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science, Machine learning and Deep Learning**
